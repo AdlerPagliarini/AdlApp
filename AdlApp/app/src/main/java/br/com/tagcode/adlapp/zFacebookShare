@@ -1,0 +1,9 @@
+Downlaod do openSSL:
+https://code.google.com/p/openssl-for-windows/downloads/list
+
+Descompacta e joga na raiz do C e roda o comando
+keytool -exportcert -alias androiddebugkey -keystore %HOMEPATH%\.android\debug.keystore | "C:\OpenSSL\bin\openssl" sha1 -binary |"C:\OpenSSL\bin\openssl" base64
+
+2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+1645307425721661

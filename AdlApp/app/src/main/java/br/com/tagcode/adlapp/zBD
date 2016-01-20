@@ -1,0 +1,5 @@
+androidmySQL
+tagcode
+android@mySQL
+
+CREATE TABLE tUser ( user_id INT NOT NULL AUTO_INCREMENT , name VARCHAR(50) NOT NULL , age SMALLINT NOT NULL , userName VARCHAR(50) NOT NULL , password VARCHAR(50) NOT NULL , PRIMARY KEY (user_id));

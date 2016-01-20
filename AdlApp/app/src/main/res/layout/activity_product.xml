@@ -1,0 +1,102 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textShortMessage"
+            android:textSize="14dp"
+            android:text="Double click to zoom..."
+            android:paddingLeft="7dp"
+            android:layout_marginBottom="5dp"
+            android:singleLine="false" />
+        <br.com.tagcode.adlapp.TouchImageView
+            android:id="@+id/ivLargeImage"
+            android:layout_width="fill_parent"
+            android:layout_height="240dp"
+            android:scaleType="fitCenter"
+            android:gravity="center"
+            android:src="@drawable/loading"
+            android:layout_gravity="center_horizontal" />
+    <ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+                    <LinearLayout android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:weightSum="1">
+                        <TextView
+                            android:id="@+id/tvName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="16dp"
+                            android:text="ABC"
+                            android:paddingTop="5dp"
+                            android:paddingLeft="15dp"
+                            android:paddingRight="15dp"/>
+                        <TextView
+                            android:id="@+id/tvLongDescription"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:inputType="textMultiLine"
+                            android:textSize="14dp"
+                            android:text="ABC"
+                            android:paddingTop="5dp"
+                            android:paddingLeft="15dp"
+                            android:paddingRight="15dp"
+                            android:singleLine="false" />
+                        <TextView
+                            android:id="@+id/tvSalePrice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18dp"
+                            android:text="ABC"
+                            android:textColor="#ff0000"
+                            android:paddingTop="5dp"
+                            android:paddingRight="15dp"
+                            android:paddingLeft="15dp"/>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+                        <Button
+                            android:id="@+id/bSharePhoto"
+                            android:layout_width="match_parent"
+                            android:gravity="center"
+                            android:layout_height="wrap_content"
+                            android:text="Share on facebook"
+                            android:layout_weight="1"
+                            />
+                        <Button
+                            android:id="@+id/bShareText"
+                            android:layout_width="match_parent"
+                            android:gravity="center"
+                            android:layout_height="wrap_content"
+                            android:text="Share a text"
+                            android:layout_weight="1" />
+                    </LinearLayout>
+                    <Button
+                        android:id="@+id/bBuy"
+                        android:text="Buy"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp" />
+                    />
+            </LinearLayout>
+    </ScrollView>
+</LinearLayout>

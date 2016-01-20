@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">AdlApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_logged">Logged</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_listview">ListActivity</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="title_activity_webview">WebView</string>
+    <string name="facebook_app_id">1645307425721661</string>
+
+    <string-array name="titles">
+        <item>Product 1</item>
+        <item>Product 2</item>
+        <item>Product 3</item>
+        <item>Product 4</item>
+        <item>Product 5</item>
+        <item>Product 6</item>
+        <item>Product 7</item>
+        <item>Product 8</item>
+        <item>Product 9</item>
+        <item>Product 10</item>
+        <item>Product 11</item>
+        <item>Product 12</item>
+        <item>Product 13</item>
+        <item>Product 14</item>
+        <item>Product 15</item>
+        <item>Product 16</item>
+        <item>Product 17</item>
+        <item>Product 18</item>
+        <item>Product 19</item>
+        <item>Product 20</item>
+        <item>Product 21</item>
+        <item>Product 22</item>
+        <item>Product 23</item>
+        <item>Product 24</item>
+        <item>Product 25</item>
+        <item>Product 26</item>
+        <item>Product 27</item>
+        <item>Product 28</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Description Product 1</item>
+        <item>Description Product 2</item>
+        <item>Description Product 3</item>
+        <item>Description Product 4</item>
+        <item>Description Product 5</item>
+        <item>Description Product 6</item>
+        <item>Description Product 7</item>
+        <item>Description Product 8</item>
+        <item>Description Product 9</item>
+        <item>Description Product 10</item>
+        <item>Description Product 11</item>
+        <item>Description Product 12</item>
+        <item>Description Product 13</item>
+        <item>Description Product 14</item>
+        <item>Description Product 15</item>
+        <item>Description Product 16</item>
+        <item>Description Product 17</item>
+        <item>Description Product 18</item>
+        <item>Description Product 19</item>
+        <item>Description Product 20</item>
+        <item>Description Product 21</item>
+        <item>Description Product 22</item>
+        <item>Description Product 23</item>
+        <item>Description Product 24</item>
+        <item>Description Product 25</item>
+        <item>Description Product 26</item>
+        <item>Description Product 27</item>
+        <item>Description Product 28</item>
+    </string-array>
+    <string-array name="prices">
+        <item>R$10,00</item>
+        <item>R$20,00</item>
+        <item>R$30,00</item>
+        <item>R$40,00</item>
+        <item>R$50,00</item>
+        <item>R$60,00</item>
+        <item>R$70,00</item>
+        <item>R$80,00</item>
+        <item>R$90,00</item>
+        <item>R$11,00</item>
+        <item>R$12,00</item>
+        <item>R$13,00</item>
+        <item>R$14,00</item>
+        <item>R$15,00</item>
+        <item>R$16,00</item>
+        <item>R$17,00</item>
+        <item>R$18,00</item>
+        <item>R$19,00</item>
+        <item>R$10,10</item>
+        <item>R$10,20</item>
+        <item>R$10,30</item>
+        <item>R$10,40</item>
+        <item>R$10,50</item>
+        <item>R$10,60</item>
+        <item>R$10,70</item>
+        <item>R$10,80</item>
+        <item>R$10,90</item>
+        <item>R$10,01</item>
+    </string-array>
+
+</resources>
