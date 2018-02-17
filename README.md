@@ -6,26 +6,26 @@ Description of the test.
 
 <h2>- BestBuy Product Catalog</h2>
 
-<b>Create a new project in Java using git (GitHub, BitBucket) with:</b>
+
  <ul> 
- <li>Functionalities:</li>
- <li>Product Catalog Screen</li>
- <li>Product name, brand, price and photo</li>
- <li>Must contain pull to update</li>
- <li>Must contain automatic pagination</li>
- <li>Product Detail Screen</li>
- <li>Large product photo</li>
- <li>Product description</li>
- <li>Layout for Smartphone & Tablet using Auto Layout (portrait and landscape)</li>
- <li>Use dependency control (gradle, for example)</li>
+ <li style="margin:0; padding:2px 0;"><b>Create a new project in Java using git (GitHub, BitBucket) with:</b></li>
+ <li style="margin:0; padding:2px 0;">Product Catalog Screen</li>
+ <li style="margin:0; padding:2px 0;">Product name, brand, price and photo</li>
+ <li style="margin:0; padding:2px 0;">Must contain pull to update</li>
+ <li style="margin:0; padding:2px 0;">Must contain automatic pagination</li>
+ <li style="margin:0; padding:2px 0;">Product Detail Screen</li>
+ <li style="margin:0; padding:2px 0;">Large product photo</li>
+ <li style="margin:0; padding:2px 0;">Product description</li>
+ <li style="margin:0; padding:2px 0;">Layout for Smartphone & Tablet using Auto Layout (portrait and landscape)</li>
+ <li style="margin:0; padding:2px 0;">Use dependency control (gradle, for example)</li>
  </ul>
 
-<b>Bonus:</b>
 <ul> 
-  <li>Image Cache</li>
- <li>Zoom the image on the product detail screen</li>
- <li>Design Patterns (Beyond the MVC)</li>
- <li>Share product photo on facebook / twitter</li>
+ <li style="margin:0; padding:2px 0;"><b>Bonus:</b></li>
+ <li style="margin:0; padding:2px 0;">Image Cache</li>
+ <li style="margin:0; padding:2px 0;">Zoom the image on the product detail screen</li>
+ <li style="margin:0; padding:2px 0;">Design Patterns (Beyond the MVC)</li>
+ <li style="margin:0; padding:2px 0;">Share product photo on facebook / twitter</li>
 </ul>
 
 <b>Instructions:</b>
