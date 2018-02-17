@@ -2,7 +2,7 @@
 
 <h1>My First Android App - Rating for Android Developer.</h1>
 
-Description of the test.
+Description of the test.</br>
 
 <h2>- BestBuy Product Catalog</h2>
  <div> 
@@ -17,7 +17,7 @@ Description of the test.
  - Layout for Smartphone & Tablet using Auto Layout (portrait and landscape)</br>
  - Use dependency control (gradle, for example)</br>
  </div>
-
+</br>
 <div> 
  <b>Bonus:</b></br>
  - Image Cache</br>
@@ -25,7 +25,7 @@ Description of the test.
  - Design Patterns (Beyond the MVC)</br>
  - Share product photo on facebook / twitter</br>
 </div>
-
+</br>
 <b>Instructions:</b>
 <div>
 The app should catalog Smartphone available at Best Buy uses an API from their website, following link compliance:
